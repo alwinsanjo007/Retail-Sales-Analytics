@@ -91,15 +91,15 @@ The project analyzes retail transactions to uncover sales trends, customer behav
 
 ## Product Analytics
 
-![Product Analytics](Screenshots/Product_Analytics.png)
+![Product Analytics](Screenshots/Product_Analysis.png)
 
 ## Customer Analytics
 
-![Customer Analytics](Screenshots/Customer_Analytics.png)
+![Customer Analytics](Screenshots/Customer_Analysis.png)
 
 ## Regional Analytics
 
-![Regional Analytics](Screenshots/Regional_Analytics.png)
+![Regional Analytics](Screenshots/Regional_Analysis.png)
 
 ## Discount Analysis
 
