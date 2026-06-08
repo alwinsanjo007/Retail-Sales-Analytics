@@ -83,14 +83,27 @@ The project analyzes retail transactions to uncover sales trends, customer behav
 
 ---
 
-## Screenshots
+# Retail Sales Analytics Dashboard
+
 ## Executive Summary
-![Executive Dashboard](screenshots/Executive_Summary.png)
-## Customer Analysis
-## Regional Analysis
+
+![Executive Dashboard](screenshots/executive_dashboard.png)
+
+## Product Analytics
+
+![Product Analytics](screenshots/product_analytics.png)
+
+## Customer Analytics
+
+![Customer Analytics](screenshots/customer_analytics.png)
+
+## Regional Analytics
+
+![Regional Analytics](screenshots/regional_analytics.png)
+
 ## Discount Analysis
-## Product Analysis
-![Product Analytics](screenshots/Product-Analysis.png)
+
+![Discount Analysis](screenshots/discount_analysis.png)
 
 
 ---
