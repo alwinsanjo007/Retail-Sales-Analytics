@@ -84,8 +84,8 @@ The project analyzes retail transactions to uncover sales trends, customer behav
 ---
 
 ## Screenshots
-
-(Add dashboard screenshots here)
+## Executive Summary
+![Executive Dashboard](screenshots/Executive_Summary.png)
 
 ---
 
