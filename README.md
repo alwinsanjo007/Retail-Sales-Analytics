@@ -85,7 +85,7 @@ The project analyzes retail transactions to uncover sales trends, customer behav
 
 ## Screenshots
 ## Executive Summary
-!(screenshots/Executive_Summary.png)
+![Executive Dashboard](screenshots/executive_dashboard.png)
 ## Customer Analysis
 ## Regional Analysis
 ## Discount Analysis
