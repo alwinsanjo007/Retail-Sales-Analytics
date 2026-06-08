@@ -90,6 +90,7 @@ The project analyzes retail transactions to uncover sales trends, customer behav
 ## Regional Analysis
 ## Discount Analysis
 ## Product Analysis
+![Product Analytics](screenshots/Product-Analysis.png)
 
 
 ---
